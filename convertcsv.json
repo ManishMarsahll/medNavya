@@ -1,0 +1,67 @@
+{
+"database":{
+"1":
+ {
+   "medshop": "A",
+   "Diseases": "cancer",
+   "Tabname": "Upcount capsule-1mg",
+   "desc": "high-dose",
+   "medtype": "Allo",
+   "price": 400
+ },
+ "2":
+ {
+   "medshop": "B",
+   "Diseases": "skin",
+   "Tabname": "GLUTONE 1000",
+   "desc": "high-dose",
+   "medtype": "Allo",
+   "price": 500
+ },
+ "3":
+ {
+   "medshop": "C",
+   "Diseases": "eye",
+   "Tabname": "Visionguard (Bilberry, Lutein & Zeaxanthin) ",
+   "desc": "high-dose",
+   "medtype": "All0",
+   "price": 700
+ },
+ "4":
+ {
+   "medshop": "D",
+   "Diseases": "cancer",
+   "Tabname": "Dhootapapeshwar Rajahpravartani Vati -1mg",
+   "desc": "mild-dose",
+   "medtype": "Ayer",
+   "price": 1500
+ },
+ "5":
+ {
+   "medshop": "E",
+   "Diseases": "skin",
+   "Tabname": "imc-500",
+   "desc": "low-dose",
+   "medtype": "homeo",
+   "price": 250
+ },
+ "6":
+ {
+   "medshop": "F",
+   "Diseases": "eye",
+   "Tabname": "Dhootapapeshwar Saptamrut Loha",
+   "desc": "mild-dose",
+   "medtype": "Ayer",
+   "price": 600
+ },
+ "7":
+ {
+   "medshop": "G",
+   "Diseases": "ortho",
+   "Tabname": "Jointace-c32",
+   "desc": "high-dose",
+   "medtype": "Allo",
+   "price": 100
+ }
+}
+}
