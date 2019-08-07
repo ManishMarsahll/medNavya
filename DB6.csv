@@ -1,0 +1,8 @@
+medshop,Diseases,Tabname,desc,medtype,price
+A,cancer,Upcount capsule-1mg,high-dose,Allo,400
+B,skin,GLUTONE 1000,high-dose,Allo,500
+C,eye,"Visionguard (Bilberry, Lutein & Zeaxanthin) ",high-dose,All0,700
+D,cancer,Dhootapapeshwar Rajahpravartani Vati -1mg,mild-dose,Ayer,1500
+E,skin,imc-500,low-dose,homeo,250
+F,eye,Dhootapapeshwar Saptamrut Loha,mild-dose,Ayer,600
+G,ortho,Jointace-c32,high-dose,Allo,100
